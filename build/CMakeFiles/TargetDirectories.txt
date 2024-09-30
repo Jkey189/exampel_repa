@@ -1,0 +1,3 @@
+/home/jkey/Work/git/example_git/exampel_repa/build/CMakeFiles/example_repa.dir
+/home/jkey/Work/git/example_git/exampel_repa/build/CMakeFiles/edit_cache.dir
+/home/jkey/Work/git/example_git/exampel_repa/build/CMakeFiles/rebuild_cache.dir

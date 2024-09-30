@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jkey/Work/git/example_git/exampel_repa/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/example_repa.dir/main.cpp.o -c /home/jkey/Work/git/example_git/exampel_repa/main.cpp",
+  "file": "/home/jkey/Work/git/example_git/exampel_repa/main.cpp",
+  "output": "CMakeFiles/example_repa.dir/main.cpp.o"
+}
+]
