@@ -29,3 +29,15 @@ public:
 private:
   int z_;
 };
+
+
+class ExampleBase {
+public:
+  int x_;
+};
+
+class ExampleA : /*virtual*/ public ExampleBase {};
+
+class ExampleB : /*virtual*/ public ExampleBase {};
+
+class ExampleDerives : public ExampleA, public ExampleB {};
